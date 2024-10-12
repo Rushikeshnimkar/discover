@@ -11,7 +11,7 @@ if (!projectId) throw new Error('Project ID is not defined')
   export const metadata = {
     name: 'Myriadflow',
     description: 'Myriadflow',
-    url: 'https://base-discover.vercel.app', // origin must match your domain & subdomain
+    url: 'https://discover.myriadflow.com', // origin must match your domain & subdomain
     icons: ['https://avatars.githubusercontent.com/u/37784886']
   }
 
