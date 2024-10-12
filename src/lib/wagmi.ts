@@ -12,7 +12,7 @@ if (!projectId) {
 export const metadata = {
   name: 'Myriadflow',
   description: 'Myriadflow',
-  url: 'https://discover-production-cfdf.up.railway.app/', // Origin must match your domain & subdomain
+  url: 'https://discover-mu-nine.vercel.app/', // Origin must match your domain & subdomain
   icons: ['https://avatars.githubusercontent.com/u/37784886']
 }
 
